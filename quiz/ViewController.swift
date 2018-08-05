@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+/* lol nice */
 class ViewController: UIViewController {
     @IBOutlet var currentQuestionLabel: UILabel!
     @IBOutlet var nextQuestionLabel: UILabel!
